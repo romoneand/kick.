@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:kick(get kick L)
+game.Players.LocalPlayer:kick()
